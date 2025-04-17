@@ -1,0 +1,12 @@
+,0,1,2,3,4,5,6
+level_0,914,915,1117,1119,1121,2580,2581
+index,914,915,1117,1119,1121,2580,2581
+gene_id,K00394,K00395,K00956,K00957,K00958,K11180,K11181
+gene_description,adenylylsulfate reductase [EC:1.8.99.2] [RN:R08553],adenylylsulfate reductase [EC:1.8.99.2] [RN:R08553],sulfate adenylyltransferase [EC:2.7.7.4] [RN:R00529],sulfate adenylyltransferase [EC:2.7.7.4] [RN:R00529],sulfate adenylyltransferase [EC:2.7.7.4] [RN:R00529],"sulfite reductase, dissimilatory-type [EC:1.8.99.5] [RN:R00861]","sulfite reductase, dissimilatory-type [EC:1.8.99.5] [RN:R00861]"
+module,"Dissimilatory sulfate reduction, sulfate => H2S","Dissimilatory sulfate reduction, sulfate => H2S","Dissimilatory sulfate reduction, sulfate => H2S","Dissimilatory sulfate reduction, sulfate => H2S","Dissimilatory sulfate reduction, sulfate => H2S","Dissimilatory sulfate reduction, sulfate => H2S","Dissimilatory sulfate reduction, sulfate => H2S"
+header,Sulfur,Sulfur,Sulfur,Sulfur,Sulfur,Sulfur,Sulfur
+subheader,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen
+BSN033;f__UBA1163;g__;s__-3,False,False,False,True,True,True,True
+BSN033;f__UBA1163;g__JACAEX01;s__-0,False,False,False,False,False,True,True
+BSN033;f__UBA1163;g__UBA1163;s__-1,False,False,False,False,False,False,False
+BSN033;f__UBA1163;g__UBA1163;s__-2,False,False,False,True,False,True,True

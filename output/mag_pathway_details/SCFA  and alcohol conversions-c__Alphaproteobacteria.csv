@@ -1,0 +1,16 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+level_0,695,699,1018,1101,1134,1140,1379,1394,2086,2151,2767,2768,2769,2771,3196,3279
+index,695,699,1018,1101,1134,1140,1379,1394,2086,2151,2767,2768,2769,2771,3196,3279
+gene_id,K00101,K00121,K00634,K00929,K01026,K01067,K01896,K01905,K03777,K04072,K13951,K13952,K13953,K13980,K18857,K19697
+gene_description,L-lactate dehydrogenase (cytochrome) [EC:1.1.2.3],alcohol dehydrogenase [EC:1.1.1.1],phosphate butyryltransferase [EC:2.3.1.19],butyrate kinase [EC:2.7.2.7],propionate CoA-transferase [EC:2.8.3.1],acetyl-CoA hydrolase [EC:3.1.2.1],medium-chain acyl-CoA synthetase [EC:6.2.1.2],"6.2.1.13, acetate---CoA ligase (ADP-forming) subunit alpha",D-lactate dehydrogenase (quinone) [EC:1.1.5.12],alcohol dehydrogenase [EC:1.1.1.1],alcohol dehydrogenase [EC:1.1.1.1],alcohol dehydrogenase [EC:1.1.1.1],alcohol dehydrogenase [EC:1.1.1.1],alcohol dehydrogenase [EC:1.1.1.1],alcohol dehydrogenase [EC:1.1.1.1],propionate kinase [EC:2.7.2.15]
+module,SCFA  and alcohol conversions,SCFA  and alcohol conversions,SCFA  and alcohol conversions,SCFA  and alcohol conversions,SCFA  and alcohol conversions,SCFA  and alcohol conversions,SCFA  and alcohol conversions,SCFA  and alcohol conversions,SCFA  and alcohol conversions,SCFA  and alcohol conversions,SCFA  and alcohol conversions,SCFA  and alcohol conversions,SCFA  and alcohol conversions,SCFA  and alcohol conversions,SCFA  and alcohol conversions,SCFA  and alcohol conversions
+header,SCFA  and alcohol conversions,SCFA  and alcohol conversions,SCFA  and alcohol conversions,SCFA  and alcohol conversions,SCFA  and alcohol conversions,SCFA  and alcohol conversions,SCFA  and alcohol conversions,SCFA  and alcohol conversions,SCFA  and alcohol conversions,SCFA  and alcohol conversions,SCFA  and alcohol conversions,SCFA  and alcohol conversions,SCFA  and alcohol conversions,SCFA  and alcohol conversions,SCFA  and alcohol conversions,SCFA  and alcohol conversions
+subheader,Nucleotide,Nucleotide,Nucleotide,Nucleotide,Nucleotide,Nucleotide,Nucleotide,Nucleotide,Nucleotide,Nucleotide,Nucleotide,Nucleotide,Nucleotide,Nucleotide,Nucleotide,Nucleotide
+Rhizobiales;f__Methyloligellaceae;g__Methyloceanibacter;s__-5,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Rhizobiales;f__Methyloligellaceae;g__Methyloceanibacter;s__-6,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Rhizobiales;f__Xanthobacteraceae;g__BOG-931;s__-1,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+Rhizobiales;f__Xanthobacteraceae;g__Bradyrhizobium;s__-4,True,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+Rhizobiales;f__Xanthobacteraceae;g__Pseudolabrys;s__-2,True,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+Rhizobiales;f__Xanthobacteraceae;g__Pseudolabrys;s__-7,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+Rhizobiales;f__Xanthobacteraceae;g__Z2-YC6860;s__-3,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+UBA8366;f__UBA8366;g__WHUA01;s__-0,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False

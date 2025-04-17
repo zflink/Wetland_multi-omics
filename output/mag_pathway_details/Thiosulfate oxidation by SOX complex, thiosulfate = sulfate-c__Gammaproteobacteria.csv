@@ -1,0 +1,31 @@
+,0,1,2,3,4,5,6,7,8,9
+level_0,1133,2348,2349,3067,3068,3069,3070,3071,3072,3339
+index,1133,2348,2349,3067,3068,3069,3070,3071,3072,3339
+gene_id,K01011,K08352,K08357,K17222,K17223,K17224,K17225,K17226,K17227,K22622
+gene_description,rhodanase,thiosulfate reductase / polysulfide reductase chain A [EC:1.8.5.5],tetrathionate => thiosulfate,soxA; sulfur-oxidizing protein SoxA,soxX; sulfur-oxidizing protein SoxX,soxB; sulfur-oxidizing protein SoxB,soxC; S-disulfanyl-L-cysteine oxidoreductase SoxC [EC:1.8.2.6],soxY; sulfur-oxidizing protein SoxY,soxZ; sulfur-oxidizing protein SoxZ,soxD; S-disulfanyl-L-cysteine oxidoreductase SoxD [EC:1.8.2.6]
+module,"Thiosulfate oxidation by SOX complex, thiosulfate => sulfate","Thiosulfate oxidation by SOX complex, thiosulfate => sulfate","Thiosulfate oxidation by SOX complex, thiosulfate => sulfate","Thiosulfate oxidation by SOX complex, thiosulfate => sulfate","Thiosulfate oxidation by SOX complex, thiosulfate => sulfate","Thiosulfate oxidation by SOX complex, thiosulfate => sulfate","Thiosulfate oxidation by SOX complex, thiosulfate => sulfate","Thiosulfate oxidation by SOX complex, thiosulfate => sulfate","Thiosulfate oxidation by SOX complex, thiosulfate => sulfate","Thiosulfate oxidation by SOX complex, thiosulfate => sulfate"
+header,Sulfur,Sulfur,Sulfur,Sulfur,Sulfur,Sulfur,Sulfur,Sulfur,Sulfur,Sulfur
+subheader,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen
+Acidiferrobacterales;f__UBA6901;g__UBA6901;s__-0,True,False,False,True,True,True,False,True,True,False
+Acidiferrobacterales;f__UBA6901;g__UBA6901;s__-10,True,False,False,True,False,True,False,True,True,False
+Acidiferrobacterales;f__UBA6901;g__UBA6901;s__-11,True,False,False,False,False,False,False,False,False,False
+Burkholderiales;f__Burkholderiaceae_A;g__JADJWR01;s__-22,True,True,False,True,True,True,True,True,True,True
+Burkholderiales;f__Burkholderiaceae_B;g__CADEEN01;s__-6,True,True,False,False,True,True,False,True,True,False
+Burkholderiales;f__Gallionellaceae;g__Gallionella;s__-19,True,False,False,True,True,True,False,True,True,False
+Burkholderiales;f__Gallionellaceae;g__Gallionella;s__-4,False,False,False,True,True,True,False,True,True,False
+Burkholderiales;f__Gallionellaceae;g__Sideroxyarcus;s__-21,False,True,False,True,True,True,False,True,True,False
+Burkholderiales;f__Methylophilaceae;g__MM2;s__-8,False,False,False,False,False,False,False,True,True,False
+Burkholderiales;f__RBG-16-58-11;g__RBG-16-58-11;s__-18,False,False,False,True,True,True,False,True,True,False
+Burkholderiales;f__Rhodocyclaceae;g__CG2-30-68-42;s__-13,True,True,False,True,True,False,False,True,True,False
+Burkholderiales;f__Rhodocyclaceae;g__UBA2250;s__-14,True,False,False,True,True,True,False,True,True,False
+Burkholderiales;f__SG8-39;g__SG8-39;s__-1,False,False,False,True,True,True,False,True,True,False
+Burkholderiales;f__SHXO01;g__SHXO01;s__-9,True,False,False,True,True,False,True,True,False,True
+Burkholderiales;f__Thiobacillaceae;g__PFJX01;s__-15,True,False,False,True,True,True,False,True,True,False
+Burkholderiales;f__Thiobacillaceae;g__Thiobacillus;s__-2,True,False,False,True,True,True,False,True,True,False
+Burkholderiales;f__Thiobacillaceae;g__Thiobacillus;s__-20,True,False,False,True,False,True,False,False,False,False
+Burkholderiales;f__Thiobacillaceae;g__UBA6918;s__-7,True,False,False,True,True,True,False,True,True,False
+Chromatiales;f__Sedimenticolaceae;g__;s__-17,True,False,False,True,True,True,False,True,True,False
+Diplorickettsiales;f__Diplorickettsiaceae;g__Aquirickettsiella;s__Aquirickettsiella isopodorum-5,False,False,False,False,False,False,False,False,False,False
+Methylococcales;f__Methylomonadaceae;g__KS41;s__-16,True,False,False,False,False,False,False,False,False,False
+Methylococcales;f__Methylomonadaceae;g__KS41;s__KS41 sp002256705-12,True,False,False,False,False,False,False,False,False,False
+Steroidobacterales;f__Steroidobacteraceae;g__RPQJ01;s__-3,True,True,False,False,False,False,True,False,False,True

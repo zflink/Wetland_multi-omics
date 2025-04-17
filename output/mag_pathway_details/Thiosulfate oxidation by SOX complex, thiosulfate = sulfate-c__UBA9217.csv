@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6,7,8,9
+level_0,1133,2348,2349,3067,3068,3069,3070,3071,3072,3339
+index,1133,2348,2349,3067,3068,3069,3070,3071,3072,3339
+gene_id,K01011,K08352,K08357,K17222,K17223,K17224,K17225,K17226,K17227,K22622
+gene_description,rhodanase,thiosulfate reductase / polysulfide reductase chain A [EC:1.8.5.5],tetrathionate => thiosulfate,soxA; sulfur-oxidizing protein SoxA,soxX; sulfur-oxidizing protein SoxX,soxB; sulfur-oxidizing protein SoxB,soxC; S-disulfanyl-L-cysteine oxidoreductase SoxC [EC:1.8.2.6],soxY; sulfur-oxidizing protein SoxY,soxZ; sulfur-oxidizing protein SoxZ,soxD; S-disulfanyl-L-cysteine oxidoreductase SoxD [EC:1.8.2.6]
+module,"Thiosulfate oxidation by SOX complex, thiosulfate => sulfate","Thiosulfate oxidation by SOX complex, thiosulfate => sulfate","Thiosulfate oxidation by SOX complex, thiosulfate => sulfate","Thiosulfate oxidation by SOX complex, thiosulfate => sulfate","Thiosulfate oxidation by SOX complex, thiosulfate => sulfate","Thiosulfate oxidation by SOX complex, thiosulfate => sulfate","Thiosulfate oxidation by SOX complex, thiosulfate => sulfate","Thiosulfate oxidation by SOX complex, thiosulfate => sulfate","Thiosulfate oxidation by SOX complex, thiosulfate => sulfate","Thiosulfate oxidation by SOX complex, thiosulfate => sulfate"
+header,Sulfur,Sulfur,Sulfur,Sulfur,Sulfur,Sulfur,Sulfur,Sulfur,Sulfur,Sulfur
+subheader,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen
+UBA9217;f__UBA9217;g__JALNZF01;s__-0,False,False,True,False,False,False,False,False,False,False

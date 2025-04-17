@@ -1,0 +1,16 @@
+,0,1,2,3,4,5,6
+level_0,914,915,1117,1119,1121,2580,2581
+index,914,915,1117,1119,1121,2580,2581
+gene_id,K00394,K00395,K00956,K00957,K00958,K11180,K11181
+gene_description,adenylylsulfate reductase [EC:1.8.99.2] [RN:R08553],adenylylsulfate reductase [EC:1.8.99.2] [RN:R08553],sulfate adenylyltransferase [EC:2.7.7.4] [RN:R00529],sulfate adenylyltransferase [EC:2.7.7.4] [RN:R00529],sulfate adenylyltransferase [EC:2.7.7.4] [RN:R00529],"sulfite reductase, dissimilatory-type [EC:1.8.99.5] [RN:R00861]","sulfite reductase, dissimilatory-type [EC:1.8.99.5] [RN:R00861]"
+module,"Dissimilatory sulfate reduction, sulfate => H2S","Dissimilatory sulfate reduction, sulfate => H2S","Dissimilatory sulfate reduction, sulfate => H2S","Dissimilatory sulfate reduction, sulfate => H2S","Dissimilatory sulfate reduction, sulfate => H2S","Dissimilatory sulfate reduction, sulfate => H2S","Dissimilatory sulfate reduction, sulfate => H2S"
+header,Sulfur,Sulfur,Sulfur,Sulfur,Sulfur,Sulfur,Sulfur
+subheader,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen
+Rhizobiales;f__Methyloligellaceae;g__Methyloceanibacter;s__-5,False,False,True,True,False,False,False
+Rhizobiales;f__Methyloligellaceae;g__Methyloceanibacter;s__-6,False,False,True,True,False,False,False
+Rhizobiales;f__Xanthobacteraceae;g__BOG-931;s__-1,False,False,False,True,False,False,False
+Rhizobiales;f__Xanthobacteraceae;g__Bradyrhizobium;s__-4,False,False,False,True,False,True,True
+Rhizobiales;f__Xanthobacteraceae;g__Pseudolabrys;s__-2,False,False,True,True,False,False,False
+Rhizobiales;f__Xanthobacteraceae;g__Pseudolabrys;s__-7,False,False,False,True,False,False,False
+Rhizobiales;f__Xanthobacteraceae;g__Z2-YC6860;s__-3,False,False,False,False,False,False,False
+UBA8366;f__UBA8366;g__WHUA01;s__-0,True,True,False,False,True,False,False

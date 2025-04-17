@@ -1,0 +1,12 @@
+,0,1,2,3,4,5,6,7,8,9,10
+level_0,891,892,896,901,903,1601,1671,1672,2174,2968,2970
+index,891,892,896,901,903,1601,1671,1672,2174,2968,2970
+gene_id,K00368,K00370,K00371,K00374,K00376,K02305,K02567,K02568,K04561,K15864,K15877
+gene_description,nitrite reductase (NO-forming) [EC:1.7.2.1] [RN:R00783 R00785],nitrate reductase 1 [EC:1.7.99.-] [RN:R00798],nitrate reductase 1 [EC:1.7.99.-] [RN:R00798],nitrate reductase 1 [EC:1.7.99.-] [RN:R00798],nitrous-oxide reductase [EC:1.7.2.4] [RN:R02804],nitric oxide reductase [EC:1.7.2.5] [RN:R00294],periplasmic nitrate reductase NapA [EC:1.7.99.-] [RN:R00798],cytochrome c-type protein NapB [RN:R00798],nitric oxide reductase [EC:1.7.2.5] [RN:R00294],nitrite reductase (NO-forming) [EC:1.7.2.1] [RN:R00783 R00785],fungal nitric oxide reductase [EC:1.7.1.14] [RN:R02492 R09446 R09808 R09809]
+module,"Denitrification, nitrate => nitrogen","Denitrification, nitrate => nitrogen","Denitrification, nitrate => nitrogen","Denitrification, nitrate => nitrogen","Denitrification, nitrate => nitrogen","Denitrification, nitrate => nitrogen","Denitrification, nitrate => nitrogen","Denitrification, nitrate => nitrogen","Denitrification, nitrate => nitrogen","Denitrification, nitrate => nitrogen","Denitrification, nitrate => nitrogen"
+header,Nitrogen,Nitrogen,Nitrogen,Nitrogen,Nitrogen,Nitrogen,Nitrogen,Nitrogen,Nitrogen,Nitrogen,Nitrogen
+subheader,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen,nitrite + ammonia => nitrogen
+BSN033;f__UBA1163;g__;s__-3,False,False,False,True,False,False,False,False,True,False,False
+BSN033;f__UBA1163;g__JACAEX01;s__-0,False,False,False,True,False,False,False,False,True,False,False
+BSN033;f__UBA1163;g__UBA1163;s__-1,False,False,False,True,False,False,False,False,True,False,False
+BSN033;f__UBA1163;g__UBA1163;s__-2,False,False,False,True,False,False,False,False,False,False,False
