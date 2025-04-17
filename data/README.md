@@ -1,0 +1,1 @@
+Note: download bac120_metadata_r214.tsv from this [link](https://data.ace.uq.edu.au/public/gtdb/data/releases/release214/214.0/) and place in this folder before executing the Proteomics_analysis_v3.ipynb
